@@ -1,6 +1,2 @@
-/// <reference types="react" />
-export interface TextProps {
-    label: string;
-}
-declare function Text({ label }: TextProps): JSX.Element;
+declare const Text: import("styled-components").StyledComponent<"p", any, {}, never>;
 export default Text;

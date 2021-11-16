@@ -1,3 +1,2 @@
-/// <reference types="react" />
-declare function Button({ children }: any): JSX.Element;
+declare const Button: import("styled-components").StyledComponent<"button", any, {}, never>;
 export default Button;
