@@ -1,0 +1,2 @@
+"use strict";function e(e){return e&&"object"==typeof e&&"default"in e?e:{default:e}}Object.defineProperty(exports,"__esModule",{value:!0});var t,n,o,r=e(require("styled-components")).default.button(o||(t=["\n  font-size: 24px;\n  color: #4d4d4d;\n"],n=["\n  font-size: 24px;\n  color: #4d4d4d;\n"],Object.defineProperty?Object.defineProperty(t,"raw",{value:n}):t.raw=n,o=t));exports.Button=r;
+//# sourceMappingURL=index.js.map
