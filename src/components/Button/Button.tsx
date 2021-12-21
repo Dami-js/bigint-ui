@@ -8,6 +8,7 @@ export interface ButtonProps {
 const Button = styled.button<ButtonProps>`
   font-size: 24px;
   color: #4d4d4d;
+  color: tomato;
 `;
 
 export default Button;

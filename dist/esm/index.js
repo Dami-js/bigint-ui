@@ -1,4 +1,4 @@
-import e from"styled-components";
+import o from"styled-components";
 /*! *****************************************************************************
 Copyright (c) Microsoft Corporation.
 
@@ -12,5 +12,5 @@ INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
 LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
 OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
 PERFORMANCE OF THIS SOFTWARE.
-***************************************************************************** */var o,n,r,t=e.button(r||(o=["\n  font-size: 24px;\n  color: #4d4d4d;\n"],n=["\n  font-size: 24px;\n  color: #4d4d4d;\n"],Object.defineProperty?Object.defineProperty(o,"raw",{value:n}):o.raw=n,r=o));export{t as Button};
+***************************************************************************** */var t,n,e,r=o.button(e||(t=["\n  font-size: 24px;\n  color: #4d4d4d;\n  color: tomato;\n"],n=["\n  font-size: 24px;\n  color: #4d4d4d;\n  color: tomato;\n"],Object.defineProperty?Object.defineProperty(t,"raw",{value:n}):t.raw=n,e=t));export{r as Button};
 //# sourceMappingURL=index.js.map
