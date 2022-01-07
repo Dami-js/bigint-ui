@@ -21,8 +21,14 @@ interface ButtonProps {
     disabled?: boolean;
 }
 declare const Button: styled_components.StyledComponent<"button", DefaultTheme, ButtonProps, never>;
+declare const A: styled_components.StyledComponent<"a", DefaultTheme, ButtonProps, never>;
+declare const BlockLink: styled_components.StyledComponent<"a", DefaultTheme, {
+    iconRight?: boolean | undefined;
+    borderTop?: boolean | undefined;
+}, never>;
+declare const Pill: styled_components.StyledComponent<"button", DefaultTheme, ButtonProps, never>;
 
 declare const light: DefaultTheme;
 declare const dark: DefaultTheme;
 
-export { Button, Text, dark, light };
+export { A, BlockLink, Button, Pill, Text, dark, light };
